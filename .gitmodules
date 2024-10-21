@@ -1,0 +1,3 @@
+[submodule "WhatsAppNotiLogger"]
+	path = WhatsAppNotiLogger
+	url = https://github.com/flemton/WhatsAppNotiLogger.git
